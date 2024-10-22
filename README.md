@@ -122,6 +122,4 @@ Puedes personalizar el asistente de la siguiente manera:
 - **Voz**: Puedes cambiar la voz que usa el asistente editando la línea `engine.setProperty("voice", id3)` en la función `hablar()`. Elige entre diferentes voces disponibles en tu sistema.
 - **Comandos adicionales**: Si deseas agregar más comandos o funcionalidades, puedes expandir el bloque de `elif` en la función `centro_pedido()`.
 
-## Contribuciones
 
-Si deseas contribuir a este proyecto, no dudes en realizar un fork, añadir tus mejoras y enviar un pull request. ¡Toda contribución es bienvenida!
